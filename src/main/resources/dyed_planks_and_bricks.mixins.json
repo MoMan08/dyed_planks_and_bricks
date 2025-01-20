@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.moman08.dyed_planks_and_bricks.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

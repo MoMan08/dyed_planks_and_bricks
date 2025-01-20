@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "dyed_planks_and_bricks",
+	"version": "1.0.0",
+	"name": "Dyed Planks & Bricks",
+	"description": "Adds dyed planks and bricks.",
+	"authors": [
+		"MoMan08"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/dyed_planks_and_bricks/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.moman08.dyed_planks_and_bricks.DyedPlanksBricks"
+		],
+		"fabric-datagen": [
+			"net.moman08.dyed_planks_and_bricks.DyedPlanksBricksDataGenerator"
+		],
+		"client": [
+			"net.moman08.dyed_planks_and_bricks.DyedPlanksBricksClient"
+		]
+	},
+	"mixins": [
+		"dyed_planks_and_bricks.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
