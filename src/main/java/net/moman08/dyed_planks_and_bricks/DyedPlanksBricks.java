@@ -2,6 +2,8 @@ package net.moman08.dyed_planks_and_bricks;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.moman08.dyed_planks_and_bricks.block.ModBlocks;
+import net.moman08.dyed_planks_and_bricks.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,6 +13,7 @@ public class DyedPlanksBricks implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
