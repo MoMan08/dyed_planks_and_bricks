@@ -1,5 +1,88 @@
 {
   "item.dyed_planks_and_bricks.test": "Test",
 
-  "block.dyed_planks_and_bricks.white_bricks": "White Bricks"
+  "block.dyed_planks_and_bricks.old_bricks": "Old Bricks",
+  "block.dyed_planks_and_bricks.old_brick_stairs": "Old Brick Stairs",
+  "block.dyed_planks_and_bricks.old_brick_slab": "Old Brick Slab",
+  "block.dyed_planks_and_bricks.old_brick_wall": "Old Brick Wall",
+
+  "block.dyed_planks_and_bricks.white_bricks": "White Bricks",
+  "block.dyed_planks_and_bricks.white_brick_stairs": "White Brick Stairs",
+  "block.dyed_planks_and_bricks.white_brick_slab": "White Brick Slab",
+  "block.dyed_planks_and_bricks.white_brick_wall": "White Brick Wall",
+
+  "block.dyed_planks_and_bricks.light_gray_bricks": "Light Gray Bricks",
+  "block.dyed_planks_and_bricks.light_gray_brick_stairs": "Light Gray Brick Stairs",
+  "block.dyed_planks_and_bricks.light_gray_brick_slab": "Light Gray Brick Slab",
+  "block.dyed_planks_and_bricks.light_gray_brick_wall": "Light Gray Brick Wall",
+
+  "block.dyed_planks_and_bricks.gray_bricks": "Gray Bricks",
+  "block.dyed_planks_and_bricks.gray_brick_stairs": "Gray Brick Stairs",
+  "block.dyed_planks_and_bricks.gray_brick_slab": "Gray Brick Slab",
+  "block.dyed_planks_and_bricks.gray_brick_wall": "Gray Brick Wall",
+
+  "block.dyed_planks_and_bricks.black_bricks": "Black Bricks",
+  "block.dyed_planks_and_bricks.black_brick_stairs": "Black Brick Stairs",
+  "block.dyed_planks_and_bricks.black_brick_slab": "Black Brick Slab",
+  "block.dyed_planks_and_bricks.black_brick_wall": "Black Brick Wall",
+
+  "block.dyed_planks_and_bricks.brown_bricks": "Brown Bricks",
+  "block.dyed_planks_and_bricks.brown_brick_stairs": "Brown Brick Stairs",
+  "block.dyed_planks_and_bricks.brown_brick_slab": "Brown Brick Slab",
+  "block.dyed_planks_and_bricks.brown_brick_wall": "Brown Brick Wall",
+
+  "block.dyed_planks_and_bricks.red_bricks": "Red Bricks",
+  "block.dyed_planks_and_bricks.red_brick_stairs": "Red Brick Stairs",
+  "block.dyed_planks_and_bricks.red_brick_slab": "Red Brick Slab",
+  "block.dyed_planks_and_bricks.red_brick_wall": "Red Brick Wall",
+
+  "block.dyed_planks_and_bricks.orange_bricks": "Orange Bricks",
+  "block.dyed_planks_and_bricks.orange_brick_stairs": "Orange Brick Stairs",
+  "block.dyed_planks_and_bricks.orange_brick_slab": "Orange Brick Slab",
+  "block.dyed_planks_and_bricks.orange_brick_wall": "Orange Brick Wall",
+
+  "block.dyed_planks_and_bricks.yellow_bricks": "Yellow Bricks",
+  "block.dyed_planks_and_bricks.yellow_brick_stairs": "Yellow Brick Stairs",
+  "block.dyed_planks_and_bricks.yellow_brick_slab": "Yellow Brick Slab",
+  "block.dyed_planks_and_bricks.yellow_brick_wall": "Yellow Brick Wall",
+
+  "block.dyed_planks_and_bricks.lime_bricks": "Lime Bricks",
+  "block.dyed_planks_and_bricks.lime_brick_stairs": "Lime Brick Stairs",
+  "block.dyed_planks_and_bricks.lime_brick_slab": "Lime Brick Slab",
+  "block.dyed_planks_and_bricks.lime_brick_wall": "Lime Brick Wall",
+
+  "block.dyed_planks_and_bricks.green_bricks": "Green Bricks",
+  "block.dyed_planks_and_bricks.green_brick_stairs": "Green Brick Stairs",
+  "block.dyed_planks_and_bricks.green_brick_slab": "Green Brick Slab",
+  "block.dyed_planks_and_bricks.green_brick_wall": "Green Brick Wall",
+
+  "block.dyed_planks_and_bricks.cyan_bricks": "Cyan Bricks",
+  "block.dyed_planks_and_bricks.cyan_brick_stairs": "Cyan Brick Stairs",
+  "block.dyed_planks_and_bricks.cyan_brick_slab": "Cyan Brick Slab",
+  "block.dyed_planks_and_bricks.cyan_brick_wall": "Cyan Brick Wall",
+
+  "block.dyed_planks_and_bricks.light_blue_bricks": "Light Blue Bricks",
+  "block.dyed_planks_and_bricks.light_blue_brick_stairs": "Light Blue Brick Stairs",
+  "block.dyed_planks_and_bricks.light_blue_brick_slab": "Light Blue Brick Slab",
+  "block.dyed_planks_and_bricks.light_blue_brick_wall": "Light Blue Brick Wall",
+
+  "block.dyed_planks_and_bricks.blue_bricks": "Blue Bricks",
+  "block.dyed_planks_and_bricks.blue_brick_stairs": "Blue Brick Stairs",
+  "block.dyed_planks_and_bricks.blue_brick_slab": "Blue Brick Slab",
+  "block.dyed_planks_and_bricks.blue_brick_wall": "Blue Brick Wall",
+
+  "block.dyed_planks_and_bricks.purple_bricks": "Purple Bricks",
+  "block.dyed_planks_and_bricks.purple_brick_stairs": "Purple Brick Stairs",
+  "block.dyed_planks_and_bricks.purple_brick_slab": "Purple Brick Slab",
+  "block.dyed_planks_and_bricks.purple_brick_wall": "Purple Brick Wall",
+
+  "block.dyed_planks_and_bricks.magenta_bricks": "Magenta Bricks",
+  "block.dyed_planks_and_bricks.magenta_brick_stairs": "Magenta Brick Stairs",
+  "block.dyed_planks_and_bricks.magenta_brick_slab": "Magenta Brick Slab",
+  "block.dyed_planks_and_bricks.magenta_brick_wall": "Magenta Brick Wall",
+
+  "block.dyed_planks_and_bricks.pink_bricks": "Pink Bricks",
+  "block.dyed_planks_and_bricks.pink_brick_stairs": "Pink Brick Stairs",
+  "block.dyed_planks_and_bricks.pink_brick_slab": "Pink Brick Slab",
+  "block.dyed_planks_and_bricks.pink_brick_wall": "Pink Brick Wall"
 }
